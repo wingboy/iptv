@@ -1,3 +1,45 @@
+NHK-G综合,P2p://generationnexxxt.com:19806/b5bda0c5078d430c942c13681802be15
+NHK-E教育,P2p://generationnexxxt.com:19806/58fb2dd485204529b771b2d8acae096e
+日本テレビ,P2p://generationnexxxt.com:19806/6ad6d0d970294894b751bb9be6714fb1
+TBSテレビ,P2p://generationnexxxt.com:19806/209a9b54c5064c2fbbd0b9836a28ad6e
+テレビ東京,P2p://generationnexxxt.com:19806/51bbd32c263f406d85a05cacd01f062f
+フジテレビ,P2p://generationnexxxt.com:19806/17331df7df384a93840003f270f99b43
+読売テレビ,P2p://generationnexxxt.com:19806/df1027136d3b4ccb8399435896f10c77
+関西テレビ,P2p://generationnexxxt.com:19806/4e41469b0a4848bdbcc0a670412f0df2
+KBS京都,P2p://generationnexxxt.com:19806/fb929986f9004ade9ae0d010eb7c0d46
+毎日放送,P2p://generationnexxxt.com:19806/643479c21af04293ad48ccf48ea9eee1
+朝日放送,P2p://generationnexxxt.com:19806/ef7250cb2aa5496d91d45ad06f2fb1d5
+テレビ大阪,P2p://generationnexxxt.com:19806/a56ecb4b782d452286964d9a863b17e5
+テレビ朝日,P2p://generationnexxxt.com:19806/4a60e75cead54877bc7d0e2f3afc1727
+BS-1,P2p://generationnexxxt.com:19806/dc55be8e1f7649ac9ff0b762c56846aa
+BS釣りビジョン,P2p://generationnexxxt.com:19806/65cc4b331feb43ec975cd6626743d2fc
+BS日テレ,P2p://generationnexxxt.com:19806/ec48c7c85632469cae7b000167942622
+BS朝日,P2p://generationnexxxt.com:19806/23b79683a7b74c6baf1f643bbb782123
+BS-TBS,P2p://generationnexxxt.com:19806/19cee2f930cf46c88ee80eda11c9bb7b
+BS11,P2p://generationnexxxt.com:19806/0f1b7b82d6574192a644f43e101c5e29
+BSフジ,P2p://generationnexxxt.com:19806/302d55abd58f4f8fb79146cf6d177c13
+WOWOWプライム,P2p://generationnexxxt.com:19806/5c2d5bb35c284c6bbee94fb0568fd4ae
+WOWOWライブ,P2p://generationnexxxt.com:19806/7cc73c16476a40e4b4b10e9172b9ff9f
+WOWOWシネマ,P2p://generationnexxxt.com:19806/50a55d71db5b41ba8dfbf1e49fafd739
+スター・チャンネル1,P2p://generationnexxxt.com:19806/31599351174a4ef9ab8309f567c38e38
+スター・チャンネル2,P2p://generationnexxxt.com:19806/f3da7df8f3f14bbe96ba4b931f2b48aa
+スター・チャンネル3,P2p://generationnexxxt.com:19806/3d8b400d2dd44c2a9ff39add631ba83d
+BSアニマックス,P2p://generationnexxxt.com:19806/644e9b26000b068834e2e2eb6d6b487d
+J Sports 1,P2p://generationnexxxt.com:19806/ec9e8e130dc8450f9ab54033ec0838cb
+J Sports 2,P2p://generationnexxxt.com:19806/61de10ba994a49ebaedf836962f9065a
+J Sports 3,P2p://generationnexxxt.com:19806/00003bb75b5044739df061845fc5ddce
+J Sports 4,P2p://generationnexxxt.com:19806/8b6d39de46c7464297947f368e623270
+BS12,P2p://generationnexxxt.com:19806/2b8209d5bdd44c2696d51bc158781e38
+ゴルフネットワークHD,P2p://generationnexxxt.com:19806/6d430a8f344b4f2abad882e9350aac5a
+時代劇専門チャンネル,P2p://generationnexxxt.com:19806/78ea3f42a8104730930a93ac5a5a869b
+Music Japan TV,P2p://generationnexxxt.com:19806/f898f0324e99499296ee859f4eb8d3ea
+キッズステーションHD,P2p://generationnexxxt.com:19806/80628310ccbf423b8b4a7eb4e1af2a05
+ディスカバリーチャンネル,P2p://generationnexxxt.com:19806/ab98b0888ba14ad68180456db43a48bd
+ナショナルジオグラフィック,P2p://generationnexxxt.com:19806/0e1814dec67c48adbfe97a6f9a0df2d8
+日テレNEWS 24,P2p://generationnexxxt.com:19806/01af57ffc3354d66a320ebb2edd87262
+旅チャンネル,P2p://generationnexxxt.com:19806/9d587c6310714b42bad0eba86ca501c4
+チャンネル銀河,P2p://generationnexxxt.com:19806/708c0b0d85dd45acba478d21c0ace2f6
+
 6,http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/81875
 Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
