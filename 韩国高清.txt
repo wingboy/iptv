@@ -1,89 +1,76 @@
+Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang Radio,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-Arirang Radio,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
+Arirang,http://198.16.100.90:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-bbstv,http://ye23.win/iptv/korea2021.php?id=bbstv
+Box Hits,https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
-Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
-ChannelA,http://106.246.182.11:9981/stream/channelid/87
-ChannelA,http://mytv.dothome.co.kr/ch/catv/133.php
-ChannelA,http://han.ddkdxmkj.com/api/han123.php?id=15
-ChannelA,http://www.hwado.net/webtv/catv/52.php
-dema,http://ye23.win/iptv/korea2021.php?id=dema
-Good TV,http://ye23.win/iptv/korea2021.php?id=Good
+Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
+GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-JTBC,http://106.246.182.11:9981/stream/channelid/84
+Happy Kids,https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
+Home & Shopping,http://gg.gg/Ha_Noi_IPTV_78-Home_and_Shopping_HD
+Hyundai Home Shopping Plus,http://gg.gg/Ha_Noi_IPTV_72-Hyundai_Mall_Plus_HD
 KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
-KBS1,http://222.109.117.27:9981/stream/channelid/2133459073
-KBS1,http://220.95.92.160:9981/stream/channelid/660474352
-KBS1,http://183.99.22.189:9981/stream/channelid/983691437
-KBS2,http://222.109.117.27:9981/stream/channelid/123020099
-KBS2,http://220.95.92.160:9981/stream/channelid/280136412
-KBS2,http://183.99.22.189:9981/stream/channelid/1564137658
-KBS电视剧,http://119.197.107.139:9981/stream/channelid/85
+KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
 KBS国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-KBS世界,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8?checkedby:iptvcat.net
+KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-korea TV,http://ye23.win/iptv/korea2021.php?id=korea
-K-POP,http://ye23.win/iptv/sbs5.1.php?id=S20
-KTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
-KTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-MBC,https://stream.chmbc.co.kr/live/TV/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+KoreaTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+Lotte Home Shopping,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
-MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-MBC,http://mytv.dothome.co.kr/ch/public/21.php
 MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-Mnet,http://106.246.182.11:9981/stream/channelid/62
+MBC大田,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-MyStream,http://ye23.win/iptv/korea2021.php?id=myStream
-NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-OCN,http://106.246.182.11:9981/stream/channelid/60
-OCN,http://121.136.153.200:9981/stream/channelid/35
-Running Man-2,https://918dc7ace8f2bd063a86686619563602.v.smtcdns.net/akm-tct.douyucdn.cn/live/131977rb5GOrl6uS.flv
-Running Man-2,http://124.223.212.38:83/douyu/131977
+Music Box,https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
+Music Reload,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+MUSIC TOP,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+National Assembly TV,https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.net
+NBS,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+Persiana Korea,http://51.210.199.14/hls/stream.m3u8
+Planet Earth,https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 Running Man-2,http://epg.112114.xyz/douyu/131977
+SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
+SBS,http://8.ykwlm.sinaapp.com/han3.php?id=14
+SBS,https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS,https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS,https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS,https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS,https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 SBS,http://183.99.22.189:9981/stream/channelid/1124346476
 SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
-SBS,http://222.109.117.27:9981/stream/channelid/2096368258
-SBS,http://han.ddkdxmkj.com/api/sbs.php?id=1
-SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
-SBS,http://220.95.92.160:9981/stream/channelid/1445999617
-SBS,http://itskoi.dothome.co.kr/sbs.php?id=S01
-SBS_funE,http://itskoi.dothome.co.kr/sbs.php?id=S04
-SBS_funE,http://han.ddkdxmkj.com/api/sbs.php?id=4
-SBS_funE,http://106.246.182.11:9981/stream/channelid/27
-SBS_MTV,http://han.ddkdxmkj.com/api/sbs.php?id=9
-SBS_MTV,http://itskoi.dothome.co.kr/sbs.php?id=S09
-SBS_Plus,http://han.ddkdxmkj.com/api/sbs.php?id=3
-SBS_Plus,http://itskoi.dothome.co.kr/sbs.php?id=S03
-SBS-Fun,http://ye23.win/iptv/sbs5.1.php?id=S04
-SBS-Golf,http://ye23.win/iptv/sbs5.1.php?id=S05
-SBS-MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
-SBS-Plus,http://ye23.win/iptv/sbs5.1.php?id=S03
-SBS高尔夫,http://han.ddkdxmkj.com/api/sbs.php?id=5
-SBS高尔夫,http://itskoi.dothome.co.kr/sbs.php?id=S05
+Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 SilveriTV,http://live.silveritv.kr:8080/hls/stream.m3u8
-TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
+SK stoa,http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
+TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-TBS首尔,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 TJB,http://1.245.74.5:1935/live/tv/.m3u8
-TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
-TVN,http://106.246.182.11:9981/stream/channelid/91
-YTN,http://ye23.win/iptv/korea2021.php?id=ytn
-朝鲜,http://220.118.153.181:9981/stream/channelid/37
-朝鲜,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-朝鲜,http://119.197.107.139:9981/stream/channelid/46
-非洲,http://210.97.86.161:9981/stream/channelid/348320263
+Woman,https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-韩联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
-跑男-3,https://918dc7ace8f2bd063a86686619563602.v.smtcdns.net/akm-tct.douyucdn.cn/live/7298973rf8ZRAH9s.flv
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-音乐节目2,http://124.223.212.38:83/douyu/603070
